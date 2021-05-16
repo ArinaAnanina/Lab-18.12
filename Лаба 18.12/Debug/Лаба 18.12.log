@@ -1,0 +1,32 @@
+﻿  Maincpp.cpp
+C:\Users\Арина\source\repos\Лаба 18.12\List.h(39,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лаба 18.12\List.h(38): message : во время компиляции функции-члена класс шаблон "void List<Pair>::Print(void)"
+C:\Users\Арина\source\repos\Лаба 18.12\Maincpp.cpp(15): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Pair>::Print(void)"
+C:\Users\Арина\source\repos\Лаба 18.12\Maincpp.cpp(14): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<Pair>"
+C:\Users\Арина\source\repos\Лаба 18.12\List.h(54,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лаба 18.12\List.h(52): message : во время компиляции функции-члена класс шаблон "T List<T>::SredneeAr(void)"
+          with
+          [
+              T=Pair
+          ]
+C:\Users\Арина\source\repos\Лаба 18.12\Maincpp.cpp(18): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::SredneeAr(void)"
+          with
+          [
+              T=Pair
+          ]
+C:\Users\Арина\source\repos\Лаба 18.12\List.h(74,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лаба 18.12\List.h(68): message : во время компиляции функции-члена класс шаблон "void List<Pair>::Search(void)"
+C:\Users\Арина\source\repos\Лаба 18.12\Maincpp.cpp(26): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Pair>::Search(void)"
+C:\Users\Арина\source\repos\Лаба 18.12\List.h(83,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лаба 18.12\List.h(92,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лаба 18.12\List.h(91): message : во время компиляции функции-члена класс шаблон "void List<Pair>::Decrease(T)"
+          with
+          [
+              T=Pair
+          ]
+C:\Users\Арина\source\repos\Лаба 18.12\Maincpp.cpp(31): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Pair>::Decrease(T)"
+          with
+          [
+              T=Pair
+          ]
+  Лаба 18.12.vcxproj -> C:\Users\Арина\source\repos\Лаба 18.12\Debug\Лаба 18.12.exe
